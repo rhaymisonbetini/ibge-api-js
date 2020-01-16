@@ -1,7 +1,7 @@
 # ibge-api-js
 
 Script que realiza busca em uma API publica do IBGE. 
-Deve usar a Lib Jquery para selecionar os elementos de input-select na DOM para que posam ser preenchido os municípios dinamicamente.
+Deve usar a Lib Jquery para selecionar os elementos de input-select na DOM para que seja preenchido os municípios dinamicamente.
 
 Abaixo esta o modelo do Select de Edição que deve user usado no HTML. O mesmo vale para o select de cadastro.
 O medoto de edição utiliza o próprio json do script para realizar a consulta uma vez que o campo do Estado ja esta preenchido.
